@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Airflow
+airflow.cfg
+airflow.db
+logs/
+plugins/__pycache__/
+
+# Data files
+*.csv
+*.tsv
+*.txt
+*.tgz
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
