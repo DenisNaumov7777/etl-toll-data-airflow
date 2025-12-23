@@ -159,5 +159,3 @@ MIT License
 
 © 2025 Denis Naumov
 
-```
-```
